@@ -1,8 +1,6 @@
-"""
-Developed a full-stack weather app utilizing Python and Flask, featuring real-time integration with OpenWeatherMap API to fetch and display weather data based on user-inputted geographical locations; enhanced user experience by implementing a seamless interface for location-based queries
+Welcome to my very first full-stack development project!
 
-Created a responsive web interface using HTML, CSS, and Bootstrap for cross-platform usability, complemented by Python-driven backend for efficient data processing.
+About This Project
+This project is designed to fetch and display real-time weather data based on user input. It's built with Flask, a Python web framework, which I've used for the first time here to handle backend operations. For the frontend, I've utilized Bootstrap to create a responsive and user-friendly interface. This setup provides a practical demonstration of integrating Flask and Bootstrap in a full-stack environment.
 
-Developed data parsing techniques to convert location data into clear weather forecasts, using JSON to ensure accurate information display.
-
- """
+This project was a great learning opportunity for me. It was my first experience building a web application that includes both client and server-side components. Working with Flask and Bootstrap has given me a solid foundation in web development, and I am excited to build on this experience.
